@@ -5,7 +5,7 @@ The goal is to *maximize profit* by determining the optimal number of
 units of two products a factory should produce, subject to resource
 constraints like machine time and labor hours.
 
-## **Internship Information Company:
+ ** Internship Information Company:
 IT CODTECH SOLUTIONS PVT. LTD Name : TUMMAPUDI SUNITHA Intern ID :CT06DF424 Domain: Data Science Duration: 6 Weeks Mentor: Neela Santhosh Kumar
 
 ## Task Description
