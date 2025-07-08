@@ -54,3 +54,12 @@ plt.ylim((0, 80))
 plt.grid(True)
 plt.legend()
 plt.show()
+
+output:
+Status: 1
+Optimal Production Plan:
+ Produce 20.00 units of Product 1
+ Produce 60.00 units of Product 2
+Maximum Profit: ₹2600.00    
+
+                
