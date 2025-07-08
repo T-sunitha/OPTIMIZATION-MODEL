@@ -5,8 +5,13 @@ The goal is to *maximize profit* by determining the optimal number of
 units of two products a factory should produce, subject to resource
 constraints like machine time and labor hours.
 
- ** Internship Information Company:
-IT CODTECH SOLUTIONS PVT. LTD Name : TUMMAPUDI SUNITHA Intern ID :CT06DF424 Domain: Data Science Duration: 6 Weeks Mentor: Neela Santhosh Kumar
+** Internship Information Company:
+IT CODTECH SOLUTIONS PVT. LTD
+Name : TUMMAPUDI SUNITHA
+Intern ID :CT06DF424 
+Domain: Data Science
+Duration: 6 Weeks
+Mentor: Neela Santhosh Kumar
 
 ## Task Description
 
@@ -17,9 +22,10 @@ To solve a business decision-making problem involving optimal allocation of limi
 
 ## Technologies Used
 
-
 Python 3-	Base programming language
 PuLP-	Linear Programming modeling and solving
 Matplotlib-	Visualization of feasible region and optimal solution
 NumPy-	Numerical operations for plotting and constraint handling
 Jupyter Notebook (optional)-	Interactive development and output display
+
+![image](https://github.com/user-attachments/assets/73035abe-38bb-4864-8d5f-9e8f6433f9c3)
